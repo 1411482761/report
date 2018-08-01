@@ -6,3 +6,5 @@
 下周安排:
 	暂无
 	reoprt
+	solr
+	https://www.cnblogs.com/cblogs/p/solr-tutorial.html
