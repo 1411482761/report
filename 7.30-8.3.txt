@@ -14,3 +14,13 @@
 	
 	8.2
 	https://www.linuxidc.com/Linux/2015-01/111265.htm
+	
+	关闭NEtworkManager服务改用传统的network
+	http://www.bkjia.com/Linuxjc/902447.html
+	
+	挺详细的配置信息
+	https://www.cnblogs.com/qiezizi/p/8004333.html
+	
+	
+	貌似有用
+	https://zhidao.baidu.com/question/329205572375660805.html
