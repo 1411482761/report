@@ -8,3 +8,9 @@
 	reoprt
 	solr
 	https://www.cnblogs.com/cblogs/p/solr-tutorial.html
+	
+	虚拟机链接外网
+	https://jingyan.baidu.com/article/9113f81b7cfbd22b3214c790.html
+	
+	8.2
+	https://www.linuxidc.com/Linux/2015-01/111265.htm
